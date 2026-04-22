@@ -1,6 +1,12 @@
-# 中国科学技术大学生存手册
+<p align="center">
+  <img alt="USTC Logo" src="./assets/ustc-logo-side.png" width="480">
+</p>
 
-> 红专并进，理实交融。
+<h1 align="center">中国科学技术大学生存手册</h1>
+
+<p align="center"><em>红专并进，理实交融</em></p>
+
+---
 
 由 USTC 校友与在校生共同编写的非官方生存指南。本手册在结构与精神上承袭 [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/) 与 [上海交通大学飞跃手册](https://github.com/SurviveSJTU/SJTU-Application)，将「生存」与「飞跃」合并为一卷。
 
@@ -33,3 +39,7 @@
 - 本手册为 **非官方** 资料，仅代表贡献者个人经验
 - 涉及规章制度的，以 **学校官方最新文件** 为准
 - 涉及时效性内容（政策、链接、价格）可能过时，欢迎 PR 更新
+
+## 素材来源
+
+`assets/` 目录下的 USTC 校徽 / 校标素材来自 [ustctug/ustclogo](https://github.com/ustctug/ustclogo)（USTC TeX User Group 维护的视觉识别素材包）。
