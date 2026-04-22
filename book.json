@@ -1,0 +1,16 @@
+{
+  "title": "中国科学技术大学生存手册",
+  "description": "由校友与在校生共同编写的 USTC 非官方生存指南",
+  "language": "zh-hans",
+  "author": "USTC Community",
+  "plugins": ["expandable-chapters", "anchors", "-sharing", "copy-code-button"],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false
+    }
+  },
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
